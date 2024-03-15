@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mish10.props" />
+</Project>

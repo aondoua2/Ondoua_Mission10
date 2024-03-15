@@ -1,0 +1,6 @@
+@Mish10_HostAddress = http://localhost:5270
+
+GET {{Mish10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
